@@ -1,0 +1,10 @@
+1. JDK - 8 or 11-16
+		Make sure that JDK is installed and enviornment varaibles are set.
+2. Jar file from the github
+3. Data Base installed Oracle/mysql/mysql server
+4. Eclipse IDE
+	https://www.eclipse.org/downloads/
+	Installation Steps : https://www.eclipse.org/downloads/packages/installer
+		3. Select the package to install
+			select the 2nd Option (Eclipse IDE for Java EE developer) 
+5. Tomcat Server (wait till jsp/sevlet)

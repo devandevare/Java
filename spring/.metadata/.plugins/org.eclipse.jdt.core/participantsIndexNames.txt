@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\Java\spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2250373063.index
+\springDemo\src\main\resources
+D:\Java\spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2941101603.index
+\springDemo\src\main\resources
